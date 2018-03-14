@@ -1,7 +1,5 @@
 #include <stdio.h>
- 
-int main() 
-{
+ int main() {
 	int n,m,pro;
 	printf("enter the number1:");
 	scanf("%d",&n);
